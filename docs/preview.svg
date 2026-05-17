@@ -1,0 +1,33 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#090D16"/>
+  <path d="M0 0H1280V720H0V0Z" fill="url(#bg)"/>
+  <g opacity="0.32">
+    <path d="M0 140H1280M0 280H1280M0 420H1280M0 560H1280M160 0V720M320 0V720M480 0V720M640 0V720M800 0V720M960 0V720M1120 0V720" stroke="#22304A" stroke-width="1"/>
+  </g>
+  <rect x="86" y="82" width="1108" height="556" rx="42" fill="#101827" fill-opacity="0.86" stroke="#2A3858" stroke-width="2"/>
+  <circle cx="1030" cy="160" r="170" fill="#D4A95A" fill-opacity="0.13"/>
+  <circle cx="105" cy="630" r="210" fill="#D4A95A" fill-opacity="0.08"/>
+  <rect x="132" y="126" width="92" height="92" rx="28" fill="#D4A95A"/>
+  <text x="178" y="184" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#10131A">GK</text>
+  <text x="132" y="292" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="900" fill="#F5F7FB">Service Booking</text>
+  <text x="132" y="350" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="500" fill="#B7C1D6">Responsive Flutter booking flow for software services</text>
+  <g transform="translate(132 434)">
+    <rect width="210" height="52" rx="26" fill="#D4A95A" fill-opacity="0.16" stroke="#D4A95A"/>
+    <text x="105" y="34" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#F1CE83">Flutter</text>
+  </g>
+  <g transform="translate(360 434)">
+    <rect width="210" height="52" rx="26" fill="#111F33" stroke="#2A3858"/>
+    <text x="105" y="34" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#D8E0EF">Material 3</text>
+  </g>
+  <g transform="translate(588 434)">
+    <rect width="210" height="52" rx="26" fill="#111F33" stroke="#2A3858"/>
+    <text x="105" y="34" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#D8E0EF">Stateful UI</text>
+  </g>
+  <text x="132" y="570" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#D4A95A">gkcoding.dev</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 30) rotate(132) scale(840 620)">
+      <stop stop-color="#D4A95A" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#090D16" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,5 +1,7 @@
 # GK Flutter Service Booking
 
+![GK Flutter Service Booking preview](docs/preview.svg)
+
 Responsive Flutter demo app by **GK Coding**.
 
 This project demonstrates a real service booking flow for software businesses: service selection, appointment slot picking, pricing summary, and conversion-focused UI.
@@ -13,6 +15,10 @@ This project demonstrates a real service booking flow for software businesses: s
 - Premium dark/gold GK Coding style
 - Conversion-oriented booking summary
 
+## Tech
+
+`Flutter` · `Dart` · `Material 3`
+
 ## Run
 
 ```bash
@@ -20,7 +26,7 @@ flutter pub get
 flutter run -d chrome
 ```
 
-## Build
+## Verify
 
 ```bash
 flutter build web
@@ -28,4 +34,4 @@ flutter build web
 
 ## Purpose
 
-This is a portfolio/demo project. It is not client work and does not contain fake testimonials, clients, or results.
+Portfolio/demo project for showing product UI, responsive layout, and state handling.
